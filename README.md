@@ -18,7 +18,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>Mullvad</td>
+      <td>
+        <a href="/server-providers/mullvad">Mullvad</a>
+      </td>
       <td>
         <a href="#" onclick="return false;"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmullvad.net%2Fen%2Fservers&style=for-the-badge&label=%20"/></a>
       </td>
