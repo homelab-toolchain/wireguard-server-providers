@@ -1,4 +1,4 @@
-<h1 align="center">Wireguard Server Providers</h1>
+<h1 align="center">WireGuard Server Providers</h1>
 <h3 align="center">Collection of Server Providers</h3>
 
 <p align="center">
@@ -39,6 +39,6 @@ All actions demonstrated here could have been carried out by anyone and are not 
 If certain servers or functionalities do not work as expected, this repository is not responsible.
 For typical use cases, it is recommended to use the official files and documentation provided by your chosen WireGuard provider.
 
-## Ideas or contributions
+## Ideas or Contributions
 
 Do you have an idea for this to be better/faster/more useful, please create an issue.
