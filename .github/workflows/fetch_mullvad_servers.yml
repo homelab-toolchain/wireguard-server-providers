@@ -1,0 +1,41 @@
+name: Fetch Mullvad Servers
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # At minute 0 past every 3rd hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install Python Packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r server-providers/mullvad/requirements.txt
+
+      - name: Execute Script
+        #env:
+        #  SOME_SECRET: ${{ secrets.SOME_SECRET }}
+        run: python server-providers/mullvad/fetch.py
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "chore: fetched mullvad servers" --allow-empty)
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
