@@ -1760,6 +1760,28 @@
     "status_messages": []
   },
   {
+    "hostname": "us-lax-wg-203",
+    "country_code": "us",
+    "country_name": "USA",
+    "city_code": "lax",
+    "city_name": "Los Angeles, CA",
+    "fqdn": "us-lax-wg-203.relays.mullvad.net",
+    "active": true,
+    "owned": false,
+    "provider": "DataPacket",
+    "ipv4_addr_in": "169.150.203.28",
+    "ipv6_addr_in": "2a02:6ea0:c859:3::a03f",
+    "network_port_speed": 10,
+    "stboot": true,
+    "pubkey": "W6/Yamxmfx3geWTwwtBbJe/J8UdEzOfa6M+cEpNPIwg=",
+    "multihop_port": 3538,
+    "socks_name": "us-lax-wg-socks5-203.relays.mullvad.net",
+    "socks_port": 1080,
+    "daita": true,
+    "type": "wireguard",
+    "status_messages": []
+  },
+  {
     "hostname": "us-lax-wg-402",
     "country_code": "us",
     "country_name": "USA",
