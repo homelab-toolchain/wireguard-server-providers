@@ -1738,6 +1738,28 @@
     "status_messages": []
   },
   {
+    "hostname": "fr-bod-wg-001",
+    "country_code": "fr",
+    "country_name": "France",
+    "city_code": "bod",
+    "city_name": "Bordeaux",
+    "fqdn": "fr-bod-wg-001.relays.mullvad.net",
+    "active": true,
+    "owned": false,
+    "provider": "HostRoyale",
+    "ipv4_addr_in": "45.134.79.67",
+    "ipv6_addr_in": "2a06:3040:4:610::f001",
+    "network_port_speed": 10,
+    "stboot": true,
+    "pubkey": "y6dcYS7MPeApbLoWLahjku5w5cufnNkwHzj1iwDPpS0=",
+    "multihop_port": 3317,
+    "socks_name": "fr-bod-wg-socks5-001.relays.mullvad.net",
+    "socks_port": 1080,
+    "daita": false,
+    "type": "wireguard",
+    "status_messages": []
+  },
+  {
     "hostname": "fr-bod-wg-002",
     "country_code": "fr",
     "country_name": "France",
