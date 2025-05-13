@@ -6644,6 +6644,28 @@
     "status_messages": []
   },
   {
+    "hostname": "gb-lon-wg-005",
+    "country_code": "gb",
+    "country_name": "UK",
+    "city_code": "lon",
+    "city_name": "London",
+    "fqdn": "gb-lon-wg-005.relays.mullvad.net",
+    "active": true,
+    "owned": true,
+    "provider": "31173",
+    "ipv4_addr_in": "185.195.232.68",
+    "ipv6_addr_in": "2a03:1b20:7:f011::a13f",
+    "network_port_speed": 20,
+    "stboot": true,
+    "pubkey": "bG6WulLmMK408n719B8nQJNuTRyRA3Qjm7bsm9d6v2M=",
+    "multihop_port": 3272,
+    "socks_name": "gb-lon-wg-socks5-005.relays.mullvad.net",
+    "socks_port": 1080,
+    "daita": false,
+    "type": "wireguard",
+    "status_messages": []
+  },
+  {
     "hostname": "gb-lon-wg-201",
     "country_code": "gb",
     "country_name": "UK",
