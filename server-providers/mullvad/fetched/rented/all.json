@@ -9328,28 +9328,6 @@
     "status_messages": []
   },
   {
-    "hostname": "us-uyk-wg-103",
-    "country_code": "us",
-    "country_name": "USA",
-    "city_code": "uyk",
-    "city_name": "Secaucus, NJ",
-    "fqdn": "us-uyk-wg-103.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "Quadranet",
-    "ipv4_addr_in": "173.205.85.34",
-    "ipv6_addr_in": "2607:fcd0:ccc0:1d05::c41f",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "Tysz0Ii2m+DsyhcWoQWxsXUdJxu1lKln4F7ML+nWPXA=",
-    "multihop_port": 3430,
-    "socks_name": "us-uyk-wg-socks5-103.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "us-uyk-wg-201",
     "country_code": "us",
     "country_name": "USA",
