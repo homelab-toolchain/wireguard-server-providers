@@ -2552,28 +2552,6 @@
     "status_messages": []
   },
   {
-    "hostname": "jp-osa-wg-001",
-    "country_code": "jp",
-    "country_name": "Japan",
-    "city_code": "osa",
-    "city_name": "Osaka",
-    "fqdn": "jp-osa-wg-001.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "xtom",
-    "ipv4_addr_in": "194.114.136.3",
-    "ipv6_addr_in": "2403:fbc0:7000::f001",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "uhbuY1A7g0yNu0lRhLTi020kYeAx34ED30BA5DQRHFo=",
-    "multihop_port": 3431,
-    "socks_name": "jp-osa-wg-socks5-001.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "jp-osa-wg-002",
     "country_code": "jp",
     "country_name": "Japan",
