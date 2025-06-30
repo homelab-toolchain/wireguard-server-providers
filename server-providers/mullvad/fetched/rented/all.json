@@ -8492,28 +8492,6 @@
     "status_messages": []
   },
   {
-    "hostname": "us-slc-wg-301",
-    "country_code": "us",
-    "country_name": "USA",
-    "city_code": "slc",
-    "city_name": "Salt Lake City, UT",
-    "fqdn": "us-slc-wg-301.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "Tzulo",
-    "ipv4_addr_in": "23.234.112.3",
-    "ipv6_addr_in": "2607:9000:d00:2::f001",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "tA/k8ouzYiVmgCRCF7TWibVzv5xRp3cgv9TJX66poGE=",
-    "multihop_port": 3392,
-    "socks_name": "us-slc-wg-socks5-301.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "us-slc-wg-302",
     "country_code": "us",
     "country_name": "USA",
