@@ -9328,28 +9328,6 @@
     "status_messages": []
   },
   {
-    "hostname": "us-mia-wg-001",
-    "country_code": "us",
-    "country_name": "USA",
-    "city_code": "mia",
-    "city_name": "Miami, FL",
-    "fqdn": "us-mia-wg-001.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "DataPacket",
-    "ipv4_addr_in": "45.134.142.219",
-    "ipv6_addr_in": "2a02:6ea0:cc1f:2::b62f",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "FVEKAMJqaJU2AwWn5Mg9TK9IAfJc4XDUmSzEeC/VXGs=",
-    "multihop_port": 3458,
-    "socks_name": "us-mia-wg-socks5-001.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "us-mia-wg-002",
     "country_code": "us",
     "country_name": "USA",
