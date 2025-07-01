@@ -8360,28 +8360,6 @@
     "status_messages": []
   },
   {
-    "hostname": "us-rag-wg-208",
-    "country_code": "us",
-    "country_name": "USA",
-    "city_code": "rag",
-    "city_name": "Raleigh, NC",
-    "fqdn": "us-rag-wg-208.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "Tzulo",
-    "ipv4_addr_in": "23.234.79.127",
-    "ipv6_addr_in": "2607:9000:4000:38::f001",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "lCyIXwxSGEBSpUah0kYSyuaZuDJJB0Cwia7gv4r7XTA=",
-    "multihop_port": 3353,
-    "socks_name": "us-rag-wg-socks5-208.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "us-slc-wg-201",
     "country_code": "us",
     "country_name": "USA",
