@@ -3036,28 +3036,6 @@
     "status_messages": []
   },
   {
-    "hostname": "il-tlv-wg-101",
-    "country_code": "il",
-    "country_name": "Israel",
-    "city_code": "tlv",
-    "city_name": "Tel Aviv",
-    "fqdn": "il-tlv-wg-101.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "DataPacket",
-    "ipv4_addr_in": "169.150.227.197",
-    "ipv6_addr_in": "2a02:6ea0:3b00:1::a01f",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "XOedjVJaT2IrEDJbzvtZeL4hP5uPRHzFxvD1cwVwUFo=",
-    "multihop_port": 3513,
-    "socks_name": "il-tlv-wg-socks5-101.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "il-tlv-wg-102",
     "country_code": "il",
     "country_name": "Israel",
