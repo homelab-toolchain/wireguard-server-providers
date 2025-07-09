@@ -2288,6 +2288,28 @@
     "status_messages": []
   },
   {
+    "hostname": "ie-dub-wg-101",
+    "country_code": "ie",
+    "country_name": "Ireland",
+    "city_code": "dub",
+    "city_name": "Dublin",
+    "fqdn": "ie-dub-wg-101.relays.mullvad.net",
+    "active": true,
+    "owned": false,
+    "provider": "M247",
+    "ipv4_addr_in": "146.70.189.2",
+    "ipv6_addr_in": "2001:ac8:88:84::a01f",
+    "network_port_speed": 10,
+    "stboot": true,
+    "pubkey": "lHrukA9+vn7Jjzx2Nb/1NQ0WiaiKppEqVxrGT5X1RFQ=",
+    "multihop_port": 3312,
+    "socks_name": "ie-dub-wg-socks5-101.relays.mullvad.net",
+    "socks_port": 1080,
+    "daita": false,
+    "type": "wireguard",
+    "status_messages": []
+  },
+  {
     "hostname": "ie-dub-wg-102",
     "country_code": "ie",
     "country_name": "Ireland",
