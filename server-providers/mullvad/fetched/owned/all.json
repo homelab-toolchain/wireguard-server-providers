@@ -968,28 +968,6 @@
     "status_messages": []
   },
   {
-    "hostname": "no-osl-wg-005",
-    "country_code": "no",
-    "country_name": "Norway",
-    "city_code": "osl",
-    "city_name": "Oslo",
-    "fqdn": "no-osl-wg-005.relays.mullvad.net",
-    "active": true,
-    "owned": true,
-    "provider": "Blix",
-    "ipv4_addr_in": "178.255.149.140",
-    "ipv6_addr_in": "2a02:20c8:4124::f401",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "ScQu/AqslSPwpXMIEyimrYZWTIdJJXLLeXrijWOF0SE=",
-    "multihop_port": 3056,
-    "socks_name": "no-osl-wg-socks5-005.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "no-osl-wg-006",
     "country_code": "no",
     "country_name": "Norway",
