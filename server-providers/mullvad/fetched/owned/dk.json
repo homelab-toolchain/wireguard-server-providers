@@ -20,27 +20,5 @@
     "daita": false,
     "type": "wireguard",
     "status_messages": []
-  },
-  {
-    "hostname": "dk-cph-wg-002",
-    "country_code": "dk",
-    "country_name": "Denmark",
-    "city_code": "cph",
-    "city_name": "Copenhagen",
-    "fqdn": "dk-cph-wg-002.relays.mullvad.net",
-    "active": true,
-    "owned": true,
-    "provider": "31173",
-    "ipv4_addr_in": "45.129.56.68",
-    "ipv6_addr_in": "2a03:1b20:8:f011::f101",
-    "network_port_speed": 20,
-    "stboot": true,
-    "pubkey": "R5LUBgM/1UjeAR4lt+L/yA30Gee6/VqVZ9eAB3ZTajs=",
-    "multihop_port": 3017,
-    "socks_name": "dk-cph-wg-socks5-002.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
   }
 ]
