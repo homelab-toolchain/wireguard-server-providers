@@ -66,6 +66,28 @@
     "status_messages": []
   },
   {
+    "hostname": "pl-waw-wg-201",
+    "country_code": "pl",
+    "country_name": "Poland",
+    "city_code": "waw",
+    "city_name": "Warsaw",
+    "fqdn": "pl-waw-wg-201.relays.mullvad.net",
+    "active": true,
+    "owned": false,
+    "provider": "M247",
+    "ipv4_addr_in": "45.128.38.226",
+    "ipv6_addr_in": "2a0d:5600:13:67::a01f",
+    "network_port_speed": 10,
+    "stboot": true,
+    "pubkey": "XwFAczY5LdogFwE9soDecXWqywSCDGuRyJhr/0psI00=",
+    "multihop_port": 3553,
+    "socks_name": "pl-waw-wg-socks5-201.relays.mullvad.net",
+    "socks_port": 1080,
+    "daita": false,
+    "type": "wireguard",
+    "status_messages": []
+  },
+  {
     "hostname": "pl-waw-wg-202",
     "country_code": "pl",
     "country_name": "Poland",
