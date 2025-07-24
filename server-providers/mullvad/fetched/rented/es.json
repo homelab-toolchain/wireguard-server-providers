@@ -1,27 +1,5 @@
 [
   {
-    "hostname": "es-bcn-wg-101",
-    "country_code": "es",
-    "country_name": "Spain",
-    "city_code": "bcn",
-    "city_name": "Barcelona",
-    "fqdn": "es-bcn-wg-101.relays.mullvad.net",
-    "active": true,
-    "owned": false,
-    "provider": "M247",
-    "ipv4_addr_in": "185.253.99.30",
-    "ipv6_addr_in": "2001:ac8:35:1::f001",
-    "network_port_speed": 10,
-    "stboot": true,
-    "pubkey": "TQDQ/SUW7pme5aRWFT4ugr9YAABS/uwJNZgqYKTM+iU=",
-    "multihop_port": 3323,
-    "socks_name": "es-bcn-wg-socks5-101.relays.mullvad.net",
-    "socks_port": 1080,
-    "daita": false,
-    "type": "wireguard",
-    "status_messages": []
-  },
-  {
     "hostname": "es-bcn-wg-102",
     "country_code": "es",
     "country_name": "Spain",
